@@ -5,7 +5,7 @@ with_machine_options :ssh_username => 'ec2-user',
     :key_name => 'your-aws-key-name',
     :image_id => 'ami-XoAMIIDoX',
     :instance_type => 'm3.medium',
-    :security_group_ids => 'your-security-group-id'
+    :security_group_ids => 'your-security-group-id' #This has to be AWS Securitry Group ID(s).
   }
 
 
