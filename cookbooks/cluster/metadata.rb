@@ -1,0 +1,5 @@
+name 'cluster'
+maintainer 'Pradeepto Bhattacharya'
+maintainer_email 'pradeepto.bhattacharya@clogeny.com'
+version '0.6.3'
+description 'Playing with chef-provisioning.'
